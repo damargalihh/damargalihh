@@ -31,7 +31,10 @@ Saya adalah mahasiswa Informatika yang passionate dan antusias dalam mengeksplor
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/damargalihh/damargalihh/output/pacman-contribution-graph.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/damargalihh/damargalihh/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+
 
